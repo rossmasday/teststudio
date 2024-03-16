@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <AppInstaller
 	Uri="https://rossmasday.github.io/teststudio/PowerBi.TestStudio.Wpf.Msix.appinstaller"
-	Version="0.1.0.86" xmlns="http://schemas.microsoft.com/appx/appinstaller/2018">
+	Version="0.1.0.87" xmlns="http://schemas.microsoft.com/appx/appinstaller/2018">
 	<MainBundle
 		Name="SunnyBITestStudio"
-		Version="0.1.0.86"
+		Version="0.1.0.87"
 		Publisher="CN=RossAckland"
-		Uri="https://rossmasday.github.io/teststudio/PowerBi.TestStudio.Wpf.Msix_0.1.0.86_Test/PowerBi.TestStudio.Wpf.Msix_0.1.0.86_x64.msixbundle" />
+		Uri="https://rossmasday.github.io/teststudio/PowerBi.TestStudio.Wpf.Msix_0.1.0.87_Test/PowerBi.TestStudio.Wpf.Msix_0.1.0.87_x64.msixbundle" />
 	<UpdateSettings>
 		<OnLaunch
 			HoursBetweenUpdateChecks="0"
