@@ -1,20 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <AppInstaller
 	Uri="https://rossmasday.github.io/teststudio/PowerBi.TestStudio.Maui_x64.appinstaller"
-	Version="0.1.0.93"
+	Version="0.1.0.94"
 	xmlns="http://schemas.microsoft.com/appx/appinstaller/2018">
 	<MainPackage
 		Name="com.companyname.powerbi.teststudio.maui"
-		Version="0.1.0.93"
+		Version="0.1.0.94"
 		Publisher="CN=SunnyBITestStudio"
-		Uri="https://rossmasday.github.io/teststudio/teststudio/PowerBiTestStudio.msix"
+		Uri="https://rossmasday.github.io/teststudio/PowerBi.TestStudio.Maui_0.1.0.94_x64_Test/PowerBi.TestStudio.Maui_0.1.0.94_x64.msix"
 		ProcessorArchitecture="x64" />
 	<Dependencies>
 		<Package
 			Name="Microsoft.WindowsAppRuntime.1.5"
 			Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
 			ProcessorArchitecture="x64"
-			Uri="https://rossmasday.github.io/teststudio/teststudio/Dependencies/x64/Microsoft.WindowsAppRuntime.1.5.msix"
+			Uri="https://rossmasday.github.io/teststudio/PowerBi.TestStudio.Maui_0.1.0.94_x64_Test/Dependencies/x64/Microsoft.WindowsAppRuntime.1.5.msix"
 			Version="5001.70.1338.0" />
 	</Dependencies>
 	<UpdateSettings>
