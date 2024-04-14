@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <AppInstaller
 	Uri="https://rossmasday.github.io/teststudio/PowerBi.TestStudio.Maui_x64.appinstaller"
-	Version="0.1.0.92"
+	Version="0.1.0.93"
 	xmlns="http://schemas.microsoft.com/appx/appinstaller/2018">
 	<MainPackage
 		Name="com.companyname.powerbi.teststudio.maui"
-		Version="0.1.0.92"
+		Version="0.1.0.93"
 		Publisher="CN=SunnyBITestStudio"
 		Uri="https://rossmasday.github.io/teststudio/teststudio/PowerBiTestStudio.msix"
 		ProcessorArchitecture="x64" />
